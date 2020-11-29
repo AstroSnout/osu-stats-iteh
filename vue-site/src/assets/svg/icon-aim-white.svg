@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>BB0C188A-B524-49DD-ADEA-B81828EA8C62</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-/-Aim-/-White">
+            <rect id="Rectangle" fill="#FFFFFF" x="14.5" y="4" width="1" height="5" rx="0.5"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" x="14.5" y="21" width="1" height="5" rx="0.5"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" transform="translate(23.500000, 15.000000) rotate(-270.000000) translate(-23.500000, -15.000000) " x="23" y="12.5" width="1" height="5" rx="0.5"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" transform="translate(6.500000, 15.000000) rotate(-270.000000) translate(-6.500000, -15.000000) " x="6" y="12.5" width="1" height="5" rx="0.5"></rect>
+            <circle id="Oval" stroke="#FFFFFF" cx="15" cy="15" r="9"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="15" cy="15" r="1"></circle>
+        </g>
+    </g>
+</svg>
